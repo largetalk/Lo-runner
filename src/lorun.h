@@ -19,7 +19,7 @@
 #ifndef __LO_GCC_HEADER
 #define __LO_GCC_HEADER
 #define _GNU_SOURCE
-#include <python2.6/Python.h>
+#include <Python.h>
 #include <sys/types.h>
 #define CALLS_MAX 400
 #define MAX_OUTPUT 100000000
