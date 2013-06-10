@@ -21,6 +21,7 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <sys/user.h>
+#include <sys/resource.h>
 #include <unistd.h>
 #include <fcntl.h>
 #include "run.h"
